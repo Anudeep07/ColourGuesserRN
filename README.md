@@ -1,0 +1,6 @@
+-   RGB colour values are given to the user.
+-   The user has to guess the square which matches the exact colour.
+-   The user can also skip and it will show a new RGB colour value with new squares.
+-   If the user makes a wrong choice, the square will disappear. If correct, an alert will be shown.
+
+![Demo](https://gm1.ggpht.com/SizllZ84RTbJlogkGMiNUfbZf_RxNs9Q_ziUYqWFN180zIJ9rHgzo5xZ5gjawhUsfuW5GBTlX1jbwb2MzUUVwWb1yCJZf1daIruW9m-8LycURIRai_gDRCl1DPtFMeWEG8BGJaKHqja2BAe2p9mFe_P8Zy-mwTsQVZuTamGSeOpYfmUuGSs-BH0HbQEUFgI22ZbX4XGeeEZBfA-dUilqXRGpDTB9D5p2n6yLoX6n0C9GXDgOufEV5sJRQKOiRRclBvOEDoZ8I0ki_EZM8nmcnoe965Gq1zgochGylx7qKn8OwJ98DXB_IJoOgf6pKvbj9wvHSoBwc-apa5Q3OzAuUX04ht1OWcKVBONxSY_OiaK5Nmm-vuwqrzyfMGkPVy3SDHFpcK9W817_0eNzakKSW17f6CEyxzX-XMp0kmKnjrYynwcW5prV2aMsWSOoM__4zr4lcaHq1-HLr8vyKKWvVHeHdZYNLvOvh-b7zkWE72oBizw2nvC1jx9wzpxMTpKPwwpTwSc7A0fJSMQq0pcbdrpolEnUk1u_vbz-ZKNVxgVjrfQXoaheM5EvYnsD2AJNTbf8z6a72maG0ykhJVoL8nOh4Chip71jEMQJeg4ZoDnTpuOIS7hoecuUkVpiglKEDKQtWgy91iTkfFxECpiyJWJjFJF5idg0zAj7tzb-uoxe7LMKo_8j6n7glaUBBRxGkqFuyVraVtqEE8tyTicpcXdiuhyo_5tTrHjqxds=s0-l75-ft-l75-ft)
